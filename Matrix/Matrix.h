@@ -1,5 +1,6 @@
 /*
-* 
+* Matrix class
+*
 * Author: Farhan Syed
 * Year: 2024
 */
